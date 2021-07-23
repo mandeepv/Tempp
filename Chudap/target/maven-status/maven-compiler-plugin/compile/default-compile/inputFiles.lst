@@ -1,0 +1,8 @@
+D:\avro\Chudap\src\main\java\com\howtodoinjava\batch\decorator\reader\InMemoryStudentReader.java
+D:\avro\Chudap\src\main\java\com\howtodoinjava\batch\decorator\mapper\CustomerRowMapper.java
+D:\avro\Chudap\src\main\java\com\howtodoinjava\batch\decorator\BatchApplication.java
+D:\avro\Chudap\src\main\java\com\howtodoinjava\batch\decorator\config\JobConfiguration.java
+D:\avro\Chudap\src\main\java\com\howtodoinjava\batch\decorator\classifier\CustomerClassifier.java
+D:\avro\Chudap\src\main\java\com\howtodoinjava\batch\decorator\processor\CustomItemProcessor.java
+D:\avro\Chudap\src\main\java\com\howtodoinjava\batch\decorator\aggregator\CustomLineAggregator.java
+D:\avro\Chudap\src\main\java\com\howtodoinjava\batch\decorator\model\Customer.java

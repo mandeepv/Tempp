@@ -1,0 +1,8 @@
+com\howtodoinjava\batch\decorator\config\JobConfiguration.class
+com\howtodoinjava\batch\decorator\model\Customer$CustomerBuilder.class
+com\howtodoinjava\batch\decorator\reader\InMemoryStudentReader.class
+com\howtodoinjava\batch\decorator\classifier\CustomerClassifier.class
+com\howtodoinjava\batch\decorator\model\Customer.class
+com\howtodoinjava\batch\decorator\mapper\CustomerRowMapper.class
+com\howtodoinjava\batch\decorator\aggregator\CustomLineAggregator.class
+com\howtodoinjava\batch\decorator\BatchApplication.class
